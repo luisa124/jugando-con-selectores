@@ -1,0 +1,79 @@
+body{
+    background: #FDFEFE;
+}
+h1{
+    color: #117A65;
+}
+ .primer{
+    color: red;
+}
+ .segundo{
+    color: #EB984E;
+}
+/*--------------color--parrafo--2--*/
+h2{
+    color: cornflowerblue;
+}
+p ins{
+    color: red;
+}
+ .sed{
+    color: cornflowerblue;
+}
+ .ter{
+    color: #8E44AD;
+}
+
+/*-----------color---tabla--------------*/
+
+.pre{
+    color: #F39C12;
+}
+.pre1{
+    color: #F39C12;
+}
+.pre2{
+    color: #F39C12;
+}
+.pre3{
+   color:  #45B39D;
+}
+.pre4{
+    color: #45B39D;
+}
+.pre5{
+    color: red;
+}
+.pre6 {
+    color: #45B39D;
+}
+.uno{
+   color:  #F39C12;
+}
+.pre7{
+    color: #45B39D;
+}
+.pre8{
+    color: red;
+}
+.pre9{
+    color: red;
+}
+
+/*----------------color--para----el---parrafo*/
+
+.parrafo1{
+    color: darkgreen;
+}
+.parrafo2{
+    color: darkgreen;
+}
+.prf{
+    color: blueviolet;
+}
+.parrafo3{
+    color: darkgreen;
+}
+.linia{
+    color: #F39C12;
+}
